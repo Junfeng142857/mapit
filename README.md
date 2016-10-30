@@ -10,6 +10,6 @@ The scripts here provide you with the convenience of locating an address on Goog
     4. Click OK.
     
 ###How to use it (how does it help you)?
-1. When you would like to look for any address, copy it into your clipboard.
+1. When you would like to look for any location, copy the **address** or simply the **name** of the place into your clipboard.
 2. open Run by Window Key + R.
 3. Enter 'mapit', and hit Enter.
